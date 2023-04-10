@@ -15,7 +15,7 @@
     "@deepstream/types": "^2.0.6",
     "@types/keycloak-connect": "^4.5.1",
     "ioredis": "^4.14.1",
-    "keycloak-connect": "^7.0.1",
+    "keycloak-connect": "^21.0.2",
     "pino": "^5.13.5"
   },
   "devDependencies": {
